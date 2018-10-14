@@ -1,3 +1,5 @@
+﻿## Ömer Pesket
+
 # Over'all Grid
 Voor de opdracht van deze week ga je het toegevoegde plaatje (overAll.png) zo exact mogelijk proberen na te maken doormiddel van HTML en CSS. Omdat je het ontwerp zo exact mogelijk probeert na te maken zijn er heel concrete technische eisen, lees deze zorgvuldig door. De gebruikte plaatjes zijn bijgevoegd.
 
@@ -28,3 +30,4 @@ Het resultaat van je opdracht plaats je uiteraard op GitHub, de link naar de Git
 * Je maakt een net menu (zie voorbeeld) voor elke pagina zodat er genavigeerd kan worden tussen de verschillende pagina's.
 * Zorg dat alle pagina's dezelfde look hebben, maar je mag voor de background kleuren (plaatjes) zelf iets maken.
 * Zet onderin de footer je eigen naam.
+
